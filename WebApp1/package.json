@@ -14,7 +14,7 @@
     "aspnet-webpack": "^3.0.0",
     "clean-webpack-plugin": "^0.1.19",
     "webpack": "^4.39.3",
-    "webpack-cli": "^3.3.7",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-middleware": "^3.7.1",
     "webpack-hot-middleware": "^2.25.0",
     "webpack-merge": "^4.1.4"
